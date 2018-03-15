@@ -1,18 +1,19 @@
-## 技术栈
+# a Music applications by Vue.js
 
-vue2 + vuex + vue-router + webpack + ES6/7 + fetch + sass + flex + svg
+- #### 如何使用
 
-## 项目运行
+`git clone https://github.com/yusifeng/musicapp.git`
 
-#### 注意：由于涉及大量的 ES6/7 等新属性，node 需要 6.0 以上版本 
+`$ cd musicapp`
 
-```
-git clone https://github.com/yusifeng/musicapp.git  
+` cnpm or npm install` 
 
-cd musicapp
+`npm run dev`
 
-npm install
+- #### 演示地址
 
-npm run dev
+[在线演示](http://106.12.5.207:2000)
 
-```
+- #### 关于此课
+
+此视频的学习过程是来源于慕课网[ustbhuangyi老师的课](http://coding.imooc.com/class/107.html), 非常感谢老师能提供这么好的课
